@@ -1,5 +1,5 @@
 # KCO Billing Dashboard
-<<<<<<< HEAD
+
 =======
 ## Introduction
 
