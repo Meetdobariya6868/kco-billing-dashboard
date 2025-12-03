@@ -1,0 +1,12 @@
+[
+  {
+    "service": "EC2",
+    "cost": 120.53,
+    "usageDate": "2024-05-12"
+  },
+  {
+    "service": "S3",
+    "cost": 45.22,
+    "usageDate": "2024-05-12"
+  }
+]

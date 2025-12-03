@@ -1,0 +1,20 @@
+# Do NOT upload node_modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Do NOT upload environment files
+.env
+client/.env
+server/.env
+
+# Optional but recommended (OS junk)
+.DS_Store
+Thumbs.db
+
+# Build / dist
+build/
+dist/
+coverage/
+.cache/
+.tmp/
