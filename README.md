@@ -28,6 +28,13 @@ Graceful loading and empty states (e.g., “Loading data…”, “No data found
 Basic responsive layout suitable for desktop and tablet.
 
 
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/c20440ab-2eb7-4a81-b2a9-5c1bee33bbb4" />
+<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/6050a28d-d2c8-42f0-8f20-785ffff8757c" />
+<img width="1920" height="1080" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/1a25de12-df4a-4658-aede-f65bd7828361" />
+<img width="1920" height="1080" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/090beb98-90db-44e6-93f6-e31ab7d04e4b" />
+
+
 ## Technologies Used
 
 Frontend: React (Create React App or Vite)
